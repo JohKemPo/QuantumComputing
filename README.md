@@ -15,4 +15,5 @@ Estudo de computação quântica
 - <a href="http://theory.caltech.edu/~preskill/ph229/">219</a><br>
 - <a href="https://medium.com/@filipe.chagas/uma-introdu%C3%A7%C3%A3o-%C3%A0-matem%C3%A1tica-da-computa%C3%A7%C3%A3o-qu%C3%A2ntica-22763e797b8d">matemática da computação quântica</a><br>
 - <a href="https://brazilquantum.medium.com/">Brazil quantum</a><br>
+- <a href="https://www.ic.unicamp.br/~cid/intro-comb-opt.html"> Otimização Combinatória</a><br>
 
