@@ -16,4 +16,7 @@ Estudo de computação quântica
 - <a href="https://medium.com/@filipe.chagas/uma-introdu%C3%A7%C3%A3o-%C3%A0-matem%C3%A1tica-da-computa%C3%A7%C3%A3o-qu%C3%A2ntica-22763e797b8d">matemática da computação quântica</a><br>
 - <a href="https://brazilquantum.medium.com/">Brazil quantum</a><br>
 - <a href="https://www.ic.unicamp.br/~cid/intro-comb-opt.html"> Otimização Combinatória</a><br>
+- <a href="https://www.infoq.com/articles/quantum-computing-intro-one/?itm_source=infoq&itm_campaign=user_page&itm_medium=link"> O estranho mundo dos algoritmos quânticos (Parte 1)</a><br>
+- <a href="https://www.infoq.com/br/articles/quantum-computing-algoritms-two/"> O estranho mundo dos algoritmos quânticos (Parte 2)</a><br>
+- <a href="https://www.infoq.com/br/articles/quantum-computing-applications-three/"> O estranho mundo dos algoritmos quânticos (Parte 3)</a><br>
 
