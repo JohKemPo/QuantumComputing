@@ -19,4 +19,6 @@ Estudo de computação quântica
 - <a href="https://www.infoq.com/articles/quantum-computing-intro-one/?itm_source=infoq&itm_campaign=user_page&itm_medium=link"> O estranho mundo dos algoritmos quânticos (Parte 1)</a><br>
 - <a href="https://www.infoq.com/br/articles/quantum-computing-algoritms-two/"> O estranho mundo dos algoritmos quânticos (Parte 2)</a><br>
 - <a href="https://www.infoq.com/br/articles/quantum-computing-applications-three/"> O estranho mundo dos algoritmos quânticos (Parte 3)</a><br>
+- <a href="https://medium.com/@claudiomonteirol.a/computa%C3%A7%C3%A3o-qu%C3%A2ntica-introdu%C3%A7%C3%A3o-ao-pacote-qiskit-e-algoritmo-de-grover-87df11450b8c">Grover circuito quântico</a><br>
+- <a href=https://dobslit.com/blog/resolvendo-o-problema-do-caixeiro-viajante-via-computacao-quantica-adiabatica/"> Caixeiro circuito quântico
 
