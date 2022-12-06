@@ -22,5 +22,9 @@ Estudo de computação quântica
 - <a href="https://medium.com/@claudiomonteirol.a/computa%C3%A7%C3%A3o-qu%C3%A2ntica-introdu%C3%A7%C3%A3o-ao-pacote-qiskit-e-algoritmo-de-grover-87df11450b8c">Grover circuito quântico</a><br>
 - <a href="https://dobslit.com/blog/resolvendo-o-problema-do-caixeiro-viajante-via-computacao-quantica-adiabatica/"> Caixeiro circuito quântico</a><br>
 - <a href="https://medium.com/qiskit">Medium Qiskit</a><br>
+- <a href="https://qiskit.org/learn/"><b>DOCUMENTAÇÃO QISKIT</b></a><br>
+
+<br><br><br><br><br><br><br>
+https://arxiv.org/abs/quant-ph/9605043
 
 
